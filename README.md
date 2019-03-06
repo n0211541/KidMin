@@ -1,2 +1,2 @@
 # KidMin
-Creating a site for our Children's Ministry.  Scope to be determined. 
+Creating a repository for Children's Ministry projects. 
